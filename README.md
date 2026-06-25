@@ -162,6 +162,8 @@ Based on the evaluation, the model with the better performance is selected accor
 ## 👨‍💻 Author
 
 **Muhammad Maulana Darmawansyah**
+**Febriani Zahra**
+**Fathahul Rizqa Arrahman**
 
 Bachelor of Information Technology
 
